@@ -13,3 +13,4 @@ z = (randrange(10,100))
 print ("suma = (x + y) + z")
 print(x+y+z,"= (",x,"+",y,")+",z,)
 
+print(x+(y+z),"= ",x,"+(",y,"+",z,")")
